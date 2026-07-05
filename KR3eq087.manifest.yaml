@@ -17,16 +17,16 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq087_000.yaml, hash: 'sha256:5bca55fdc0facda02c1d7be84f34486e58897e4e3d90b8076fa4d1dc2167fb39'}
-  - {seq: 1, filename: KR3eq087_001.yaml, hash: 'sha256:e010330d0ed46b926d96e45ee21c20cba0738abfcc3b97e2b4ce74a4b8ea58fd'}
-  - {seq: 2, filename: KR3eq087_002.yaml, hash: 'sha256:c3785909dbe79ae8699c9db4425b94aae5f8ffc5fea05d8b9bfb65b0681a5fd5'}
-  - {seq: 3, filename: KR3eq087_003.yaml, hash: 'sha256:8394b6bcc64371f2008f3c16a5c5558a8c75ddd4409ce40e34bf598db9f05aea'}
-  - {seq: 0, filename: KR3eq087_000.yaml, hash: 'sha256:5bca55fdc0facda02c1d7be84f34486e58897e4e3d90b8076fa4d1dc2167fb39'}
+  - {seq: 0, filename: KR3eq087_000.yaml, hash: 'sha256:c5149e5dea7234ff4924e64e65b63f77e2eee94bec39a3365578c33c4e248bf5'}
+  - {seq: 1, filename: KR3eq087_001.yaml, hash: 'sha256:aff7e3be2238c00ceaf23c0ec1d7ee64a3d71fbd61ce4acb8e968157f77d4aac'}
+  - {seq: 2, filename: KR3eq087_002.yaml, hash: 'sha256:f4096f1a6387798c7d10408b64e9f8fd8dad5e5264fc6f456db948bcc120892c'}
+  - {seq: 3, filename: KR3eq087_003.yaml, hash: 'sha256:d239698c8e0187ef4ed7451bf539efe7ec3df548026f7a82213bd0652fd0a1d8'}
+  - {seq: 0, filename: KR3eq087_000.yaml, hash: 'sha256:c5149e5dea7234ff4924e64e65b63f77e2eee94bec39a3365578c33c4e248bf5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq087_000.markers.yaml, hash: 'sha256:f778f9f4fdec29b9c553d216b6559b19266ae016d683e56d630963857daec1c1'}
-  - {seq: 1, role: markers, filename: assets/KR3eq087_001.markers.yaml, hash: 'sha256:18434dbb26bfade5e4d56634d268c0d08783ca9c9e97c17fbae08eeb7e9207ca'}
-  - {seq: 2, role: markers, filename: assets/KR3eq087_002.markers.yaml, hash: 'sha256:701c5938068472022018f747150334b0957ce5ce272a9d6654a3726d814571a6'}
-  - {seq: 3, role: markers, filename: assets/KR3eq087_003.markers.yaml, hash: 'sha256:23e5e8734a52542ffab7b97cd2c3673a2fc7ee84a0993c649ceefa7dd6a60da8'}
+  - {seq: 0, role: markers, filename: assets/KR3eq087_000.markers.yaml, hash: 'sha256:095d6de7f2b1cec64aaea38ae7fd67821839f664ae35d2f18ce237553463e179'}
+  - {seq: 1, role: markers, filename: assets/KR3eq087_001.markers.yaml, hash: 'sha256:2b82bb1a5c51f7f5ed1146d119d006f6bdae447ffd01586250ccf42a78ad5840'}
+  - {seq: 2, role: markers, filename: assets/KR3eq087_002.markers.yaml, hash: 'sha256:3acb09c55f35212f6ca96c0696e19ee37484e463a8fbfd96d218864421b06dee'}
+  - {seq: 3, role: markers, filename: assets/KR3eq087_003.markers.yaml, hash: 'sha256:50fcbaab4a4ad4be9271e37d4350f590e7340330a3c24e827fd9733b271adc50'}
 table_of_contents:
 - ref:
     seq: 0
@@ -968,7 +968,4 @@ table_of_contents:
   label: 附靜香樓醫案三十一條
   type: section
   level: 1
-hash: sha256:a1bbd0659809eb7f3fa67eeca8e3549325b8faaf3db401424d35117808b73c41
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:884b5380a52814a6b7ab056fad68a5eec51271b01552e375bc12ae7168ddb0dd
